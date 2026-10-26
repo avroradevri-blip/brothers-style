@@ -1,6 +1,6 @@
 const VIDEO = {
-  vertical: "видео 1.mp4",
-  horizontal: "видео 2.mp4",
+  vertical: "video-1.mp4",
+  horizontal: "video-2.mp4",
 };
 
 const RATES = {
